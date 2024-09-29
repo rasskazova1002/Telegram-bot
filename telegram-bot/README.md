@@ -1,4 +1,5 @@
 Всем привет!
+
 В этом проекте реализован телеграм-бот для студенческого отряда МГУ "Backspace". Он может выполнять несколько функций: 
 - предоставление справочной информации о студенческих отрядах
 - добавление пользователей в отряд
@@ -11,6 +12,7 @@
 --------------------------------------------------------------------------------------
 
 Hello everyone!
+
 In this project, it is a telegram bot for the MSU student squad "Backspace". It can perform several functions: 
 - providing background information about student squad
 - adding users to the squad
